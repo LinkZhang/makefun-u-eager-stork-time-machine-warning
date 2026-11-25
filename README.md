@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-eager-stork-81-9647-funniest-time-machine-warning-f8add151/LinkZhang/makefun-u-eager-stork-time-machine-warning/rank.svg)](https://make.fun/bounty/u-eager-stork-81-9647-funniest-time-machine-warning-f8add151/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-funniest-time-machine-warning-f8add151)
 [![reward](https://make.fun/badge/u-eager-stork-81-9647-funniest-time-machine-warning-f8add151/LinkZhang/makefun-u-eager-stork-time-machine-warning/reward.svg)](https://make.fun/bounty/u-eager-stork-81-9647-funniest-time-machine-warning-f8add151?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-funniest-time-machine-warning-f8add151)
 
-A warning label for a time machine: future passengers ride free — they already paid, in 1973, with your wallet.
+A warning label for a time machine: never meet your grandfather — he has filed a complaint about you, dated three years before you were born.
 
 ## Run it
 
